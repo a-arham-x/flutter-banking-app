@@ -1,4 +1,4 @@
-# first_flutter_app
+# flutter_banking_app
 
 A new Flutter project.
 
